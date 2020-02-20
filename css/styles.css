@@ -9,7 +9,10 @@
 }
 .delani-home h1{
     font-weight: bolder;
-    font-size:50px ;
+    font-size:60px ;
+}
+.delani-home p{
+    font-size: x-large;
 }
 .about-us{
     text-align: center;
@@ -24,7 +27,7 @@
     background-image: url("/img/s_image.jpg");
     text-align: center;
     color: white;
-    height: 55vh;
+    height: 100vh;
     padding: 8%;
     background-repeat: no-repeat;
     font-size: x-large;
@@ -34,6 +37,10 @@
     font-weight: bolder;
  
 }
+#wwd{
+    margin-top: 0%;
+    padding-top: 0%;
+}
 .what-we-do h2{
     text-align: center;
     text-transform: uppercase;
@@ -42,3 +49,6 @@
 .what-we-do h4{
     text-transform: uppercase;
 } 
+.what-we-do p{
+    font-size: x-large;
+}

@@ -104,7 +104,8 @@ form{
     display: block;
     text-align: center;
 }
-.concl{
+.concl h5{
     text-align: center;
+    font-weight: bolder;
 }
  

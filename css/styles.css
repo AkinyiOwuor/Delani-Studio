@@ -52,3 +52,15 @@
 .what-we-do p{
     font-size: x-large;
 }
+.portfolio img{
+    margin: 10px;
+}
+.portfolio h2{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.portfolio p{
+    text-transform: uppercase;
+    font-size: x-large;
+}

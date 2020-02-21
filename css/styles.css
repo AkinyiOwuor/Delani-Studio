@@ -37,10 +37,7 @@
     font-weight: bolder;
  
 }
-#wwd{
-    margin-top: 0%;
-    padding-top: 0%;
-}
+
 .what-we-do h2{
     text-align: center;
     text-transform: uppercase;
@@ -64,3 +61,50 @@
     text-transform: uppercase;
     font-size: x-large;
 } 
+/* .contact-us{
+    background-image: url("/img/c_image.jpg");
+}
+form{
+    width:50%;
+    margin: 0 auto;
+}
+#message{
+    background-color: transparent;
+    color: white;
+}
+#email{
+    background-color: transparent;
+    color: white;
+}
+#name{
+    background-color: transparent;
+    color: white;
+}
+#message::placeholder{
+    color: white;
+    font-size: x-large;
+}
+#email::placeholder{
+    color: white;
+    font-size: x-large;
+}
+#name::placeholder{
+    color: white;
+    font-size: x-large;
+}
+.contact-us h2{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.form textarea{
+    height: 150px;
+}
+.footer{
+    display: block;
+    text-align: center;
+}
+.concl{
+    text-align: center;
+}
+ */

@@ -19,7 +19,7 @@ CONTACTS:AT The contacts section we have where you insert you name,email-adress 
 ## Technologies Used
 HTML,CSS,Javascript,Bootstrap and jQuery
 ## Live Link
-
+https://akinyiowuor.github.io/Delani-Studio/
 ## Contact Information
 Email-Address:owuorrachel@gmail.com
 ## Licence and copyright information

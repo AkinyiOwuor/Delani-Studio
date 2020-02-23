@@ -59,16 +59,16 @@ $(document).ready(function(){
     $(".img8").mouseleave(function(){
         $(".work8-par").hide();
     });
-//     $("#submit").click(function(event){
-//         event.preventDefault();
-//         var name=$("#name").value();
-//         var email=$("#email").value();
-//         var message=$("#message");
-//         if(name==''||email==''||message==''){
-//             alert("Please ensure you fill the form correctly!");
-//         }
-//         else{
-//             alert("Hello" + name + "we have received your message.Thank you for reaching out to us.")
-//         }
-//     })
-// });
+    $("#submit").click(function(event){
+        event.preventDefault();
+        var name=$("#name").val();
+        var email=$("#email").val();
+        var message=$("#message");
+        if(name ==''||email ==''||message ==''){
+            alert("Please ensure you fill the form correctly!");
+        }
+        else{
+            alert(" Hello " + name + " we have received your message.Thank you for reaching out to us. ")
+        }
+    })
+});

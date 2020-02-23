@@ -23,7 +23,7 @@ BOOTSTRAP
 JAVASCRIPT
 JQUERY
 ## Live Link
-
+https://akinyiowuor.github.io/Delani-Studio/
 ## Contact Information
 Email-Address:owuorrachel@gmail.com
 ## Licence and copyright information

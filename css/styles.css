@@ -1,5 +1,5 @@
 .delani-home{
-    background-image: url("/img/h_img.jpg");
+    background-image: url("../img/h_img.jpg");
     height: 100vh;
     color: white;
     text-align: center;
@@ -16,15 +16,16 @@
 }
 .about-us{
     text-align: center;
-    padding: 4px;
+    padding: 3px;
     font-size: x-large;
 }
 .about-us h2{
     font-weight: bolder;
     text-transform: uppercase;
+    font-size: xx-large;
 }
 .services{
-    background-image: url("/img/s_image.jpg");
+    background-image: url("../img/s_image.jpg");
     text-align: center;
     color: white;
     height: 100vh;
@@ -78,10 +79,10 @@
     border: none;
 }
 .contact-us{
-    background-image: url("/img/c_image.jpg");
+    background-image: url("../img/c_image.jpg");
 }
 form{
-    width:50%;
+    width:60%;
     margin: 0 auto;
 }
 #message{

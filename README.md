@@ -17,11 +17,7 @@ PORTFOLIO:The portfolio basically shows the logos of our website.
 
 CONTACTS:AT The contacts section we have where you insert you name,email-adress and massege.
 ## Technologies Used
-HTML
-CSS
-BOOTSTRAP
-JAVASCRIPT
-JQUERY
+HTML,CSS,Javascript,Bootstrap and jQuery
 ## Live Link
 https://akinyiowuor.github.io/Delani-Studio/
 ## Contact Information
